@@ -2,6 +2,8 @@
 # Crear un Generador de Excusas usando IA
 <!-- endhide -->
 
+<onlyfor saas="true" withBanner="true">
+
 ## 🌱 ¿Cómo empezar este proyecto?
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
@@ -19,6 +21,8 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 
 > ⚠ Necesitarás tener Node.js o Python 3.7+ instalado si lo haces localmente, pero todo eso ya está instalado en Codespaces o Gitpod.
+
+</onlyfor>
 
 ## 📝 Instrucciones
 

@@ -2,6 +2,8 @@
 # Create an Excuse Generator using AI
 <!-- endhide -->
 
+<onlyfor saas="true" withBanner="true">
+
 ## 🌱 How to start this project?
 
 Do not clone this repository because we are going to be using a different template.
@@ -19,6 +21,8 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 
 > ⚠ You will need to have Node.js or Python 3.7+ installed if you do it locally, but all of that is already installed on Codespaces or Gitpod.
+
+</onlyfor>
 
 ## 📝 Instructions
 
