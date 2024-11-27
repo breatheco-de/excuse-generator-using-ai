@@ -6,6 +6,7 @@
 	"slug": "excuse-generator-using-ai",
 	"status": "published",
 	"duration": 4,
+	"template_url": ["https://github.com/4GeeksAcademy/flask-rest-hello", "https://github.com/4GeeksAcademy/vanillajs-hello"] ,
 	"preview": "https://github.com/breatheco-de/excuse-generator-using-ai/blob/master/preview.gif?raw=true",
 	"translations": ["es", "us"],
 	"difficulty": "beginner",
