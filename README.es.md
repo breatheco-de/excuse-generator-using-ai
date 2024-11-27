@@ -2,7 +2,7 @@
 # Crear un Generador de Excusas usando IA
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
